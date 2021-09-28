@@ -32,13 +32,6 @@ const Header = ( {currentUser, hidden} )=>(
                 null 
                 : <CartDropdown />
             }
-
-
-        
-
-        
-        
-
     </div>
 
 );
